@@ -1,0 +1,15 @@
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\bin\Debug\Projeto_01_2.0.exe.config
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\bin\Debug\Projeto_01_2.0.exe
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\bin\Debug\Projeto_01_2.0.pdb
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2._0.Properties.Resources.resources
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2.0.csproj.GenerateResource.cache
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2.0.csproj.CoreCompileInputs.cache
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2.0.exe
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2.0.pdb
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2.0.csprojAssemblyReference.cache
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2._0.Entrada.resources
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2._0.MenuConvidado.resources
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2._0.MenuAdministrador.resources
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2._0.Desafio_01_Fácil_1.resources
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2._0.CadastroConvidado.resources
+C:\Users\neocia\source\repos\Projeto_01_2.0\Projeto_01_2.0\obj\Debug\Projeto_01_2._0.CadastroAdministrador.resources
